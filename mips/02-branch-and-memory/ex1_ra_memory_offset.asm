@@ -9,6 +9,8 @@
 #dos dígitos do seu RA.(Ex: Se a soma for 15, o offset será 16; se a soma for 8, o offset será 8)
 #OBS: Em casos de grupos com dois ou três integrantes, escolham o RA de um dos integrantes.
 
+#RA usado será 00364001
+
 li $t0, 0	#Primeiro numero do RA atribuido a t0
 li $t1, 0	#Segundo numero do RA atribuido a t1
 li $t2, 3	#Terceiro numero do RA atribuido a t2

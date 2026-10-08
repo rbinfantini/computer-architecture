@@ -1,0 +1,13 @@
+# OS / Cloud files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE configs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Simulator dumps and runtime logs
+*.dump

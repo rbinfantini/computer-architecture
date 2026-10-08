@@ -15,7 +15,7 @@
 .data 
 	prompt: .asciiz "Digite um numero: "
 	messageP: .asciiz "\nPrimo"
-	messageNP: .asciiz "\nNao e primo"
+	messageNP: .asciiz "\nNao e Primo"
 	
 .text
 	
